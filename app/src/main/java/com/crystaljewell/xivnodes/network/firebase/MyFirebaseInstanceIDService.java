@@ -7,7 +7,7 @@ import com.google.firebase.iid.FirebaseInstanceIdService;
  * Created by crystaladkins on 5/8/17.
  */
 
-public class MyFIrebaseInstanceIDSerivce extends FirebaseInstanceIdService {
+public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 
     /**
      * Called if InstanceID token is updated. This may occur if the security of
