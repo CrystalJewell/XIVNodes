@@ -1,4 +1,4 @@
-package com.crystaljewell.xivnodes.network;
+package com.crystaljewell.xivnodes.network.xivdb;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -11,7 +11,7 @@ import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-import static com.crystaljewell.xivnodes.network.ApiConstants.API_BASE_URL;
+import static com.crystaljewell.xivnodes.network.xivdb.ApiConstants.API_BASE_URL;
 
 /**
  * Created by crystaladkins on 5/2/17.

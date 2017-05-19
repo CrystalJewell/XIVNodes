@@ -1,4 +1,4 @@
-package com.crystaljewell.xivnodes.model;
+package com.crystaljewell.xivnodes.data.model;
 
 /**
  * Created by crystaladkins on 5/2/17.
